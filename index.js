@@ -1,5 +1,5 @@
 var Hapi = require('hapi');
-var Grads = require('../grads/index.js');
+var Grads = require('grads');
 
 var hapi = new Hapi.Server();
 
